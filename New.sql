@@ -243,9 +243,4 @@ USING(customer_id)
 group by tenure_segment,value_segment,age_segment
 order by lost_revenue desc
 LIMIT 10;
-/*begine to performe a demographic analysis */
-
-
-
-
 ----Implement a business intelligence (BI) tool (e.g., Tableau, Power BI) to create interactive dashboards and visualizations for churn metrics.
